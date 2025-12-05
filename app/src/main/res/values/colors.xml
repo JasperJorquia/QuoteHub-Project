@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Theme Colors -->
+    <color name="dark_bg">#1a1a1a</color>
+    <color name="dark_navy">#2a2a2a</color>
+    <color name="button_purple">#9C27B0</color>
+
+    <!-- Category Colors -->
+    <color name="purple_category">#6b4fa0</color>
+    <color name="pink_category">#d91b79</color>
+    <color name="coral_category">#f39189</color>
+    <color name="blue_category">#1E88E5</color>
+    <color name="purple_light">#7B2CBF</color>
+    <color name="green_category">#689F38</color>
+
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="beige">#f5f5dc</color>
+    <color name="gray_input">#808080</color>
+
+    <!-- Additional UI Colors -->
+    <color name="card_background">#2a2a2a</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="divider">#3a3a3a</color>
+
+    <!-- Status Colors -->
+    <color name="error_red">#FF4444</color>
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_yellow">#FFC107</color>
+
+    <!-- Theme Overrides -->
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#7B1FA2</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>
